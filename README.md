@@ -1,5 +1,5 @@
 # cpp-zlib
-C++ string compress decompress in zlib
+C++ zlib compress decompress data
 
 # Compile
 ```
